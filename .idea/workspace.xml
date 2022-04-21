@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3abb3e91-44dd-4a95-8d2f-46397a1e65ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/IntellijService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
